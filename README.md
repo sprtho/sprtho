@@ -1,9 +1,11 @@
 # Go Seung Jin
 
 안녕하세요 Core Banking Developer 고승진입니다.
+<br>
 KB저축은행에서 전반적인 여신업무의 개발 및 운영을 담당하였고,
+<br>
 우리에프아이에스에서 우리은행의 여신 사후관리 업무 개발을 담당했습니다.
-<br><br>
+<br>
 
 ## Skills
 
