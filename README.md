@@ -19,3 +19,5 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="http://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=white"
 style="height : auto; margin-left : 10px; margin-right : 10px; color : white"/>
+<img src="http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=PYTHON&logoColor=white"
+style="height : auto; margin-left : 10px; margin-right : 10px; color : white"/>
